@@ -6,7 +6,7 @@
     
     1.3 self-closing
     Las etiquetas de autocierre o "self-closing" son etiquetas HTML que no tienen contenido interno y no necesitan una etiqueta de cierre separada. Se cierran ellas mismas dentro de la misma etiqueta de apertura utilizando una convención especial.
-    <img>: Para insertar imágenes: <img src="ruta_de_la_imagen.jpg" alt="Descripción de la imagen" />
+    <img>: Para insertar imágenes: <img src="" alt="" />
     <br>: Para un salto de línea: <br />
     <input>: Utilizado en formularios: <input type="text" name="nombre" />
     <hr>: Para una línea horizontal: <hr />
